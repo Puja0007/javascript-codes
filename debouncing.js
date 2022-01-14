@@ -53,4 +53,3 @@ function getSummation(a,b,c){
 }
 
 let curyFun = getSummation.bind(this,3);
-console.log(curyFun(3)(4));
