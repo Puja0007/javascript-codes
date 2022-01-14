@@ -9,7 +9,7 @@ function hide(fun){
    console.log("hi");
 }
 
-hide(seek); 
+
 
 function seek(){
     console.log('seek');
